@@ -36,7 +36,7 @@ const Index = () => {
           {/* Badge */}
           <div className="inline-block">
             <div className="border border-border px-6 py-2 text-sm tracking-[0.2em] font-light">
-              UNDER CONSTRUCTION
+              UNDER MAINTENANCE
             </div>
           </div>
 
@@ -44,7 +44,7 @@ const Index = () => {
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight tracking-tight">
             Our Website is
             <br />
-            Under Construction
+            Under Maintenance
           </h1>
 
           {/* Description */}
